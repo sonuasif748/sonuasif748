@@ -1,5 +1,4 @@
 <!----------------------------------- Banner - Asifs ------------------------------------>
-[![MasterHead](https://raw.githubusercontent.com/sonuasif748/sonuasif748/main/gbann.png)](#)
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
@@ -7,8 +6,8 @@
   <a href="https://github.com/sonuasif748?tab=followers">
      <img align="right" src="https://img.shields.io/github/followers/sonuasif748?label=Followers&style=social" alt="followers-count">
   </a>
-  <h3>Hi, I'm Rajesh Kumar</h3>
-  <p>I am Full Stack Web and Android App Developer. I am also an Educator. I teach on
+  <h3>Hi, I'm Asif</h3>
+  <p>I am AI/ML Engineer and Backend Developer. I am also an Educator. I teach on
     <a href="https://www.youtube.com/user/sonuasif748">
         <img align="center" src="https://img.shields.io/badge/Asifs Youtube Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/user/sonuasif748" />
     </a> having 400k+ Subscribers.
@@ -19,11 +18,11 @@
 <h2>Tech Stack</h2>
 <h3>Languages</h3>
 <p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
     <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
 </p>
